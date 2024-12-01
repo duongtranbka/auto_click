@@ -1,0 +1,2 @@
+GOTO https://cloud.google.com/
+CLICKTO_IMAGE getstart.png

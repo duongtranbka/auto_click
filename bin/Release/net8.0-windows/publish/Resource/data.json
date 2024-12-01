@@ -1,0 +1,18 @@
+{
+  "versionChrome": "130",
+  "browser": "orbita",
+  "Profiles": [
+    {
+      "66b02de9d7b9015c617f27db46gl0vyFG3": {
+        "userDataDir": "D:\\gologin_python\\66b02de9d7b9015c617f27db",
+        "profileName": "Default"
+      }
+    },
+    {
+      "66b4fddbdd3f6f6aa759ee25FCcPv8IVdj": {
+        "userDataDir": "D:\\gologin_python\\66b4fddbdd3f6f6aa759ee25",
+        "profileName": "Default"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+Open profile id : 66b4fddbdd3f6f6aa759ee25FCcPv8IVdj  at positon : 0:0 with the size 620:517
+Open profile id : 66b02de9d7b9015c617f27db46gl0vyFG3  at positon : 640:0 with the size 620:517
+Executed : Done open Profiles
+Open profile id : 66b02de9d7b9015c617f27db46gl0vyFG3  at positon : 0:0 with the size 620:517
+Open profile id : 66b02de9d7b9015c617f27db46gl0vyFG3  at positon : 0:0 with the size 620:517
+Open profile id : 66b02de9d7b9015c617f27db46gl0vyFG3  at positon : 0:0 with the size 620:517
+Executed : Done open Profiles
+Open profile id : 66b02de9d7b9015c617f27db46gl0vyFG3  at positon : 0:0 with the size 620:517
+Open profile id : 66b4fddbdd3f6f6aa759ee25FCcPv8IVdj  at positon : 640:0 with the size 620:517
+Executed : Done open Profiles
+Removed profile : 66b02de9d7b9015c617f27db46gl0vyFG3
+Removed profile : 66b4fddbdd3f6f6aa759ee25FCcPv8IVdj
+Added profile : Default
+Added profile : Default
+Open profile id : rI6vBw6moM_66b4fddbdd3f6f6aa759ee25  at positon : 0:0 with the size 620:517
+Open profile id : 34Gy9wOCh3_66b02de9d7b9015c617f27db  at positon : 640:0 with the size 620:517
+Executed : Done open Profiles
+Open profile id : rI6vBw6moM_66b4fddbdd3f6f6aa759ee25  at positon : 0:0 with the size 620:517
+Open profile id : 34Gy9wOCh3_66b02de9d7b9015c617f27db  at positon : 640:0 with the size 620:517
+Executed : Done open Profiles
