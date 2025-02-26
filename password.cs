@@ -27,7 +27,7 @@ namespace Auto_Click
             //this.Hide();
             if (jInputPW.Text != "")
             {
-                if (jInputPW.Text == "thena")
+                if (jInputPW.Text == "trjsdHR")
                 {
                     Auto_Click mainForm = new Auto_Click();
                     mainForm.FormClosed += (s, args) => this.Close();
